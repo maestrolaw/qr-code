@@ -1,0 +1,57 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+
+}
+
+.container {
+    position: fixed;
+    padding-left: 35%;
+    padding-top: 5%;
+    width: auto;
+
+
+
+
+
+}
+
+#main {
+    background-color: hsl(0, 0%, 100%);
+    border: 20px;
+    margin: 20px;
+    padding: 13px;
+    border-radius: 5%;
+    box-sizing: border-box;
+    width: auto;
+    text-align: center;
+    height: 50%;
+    
+}
+
+#qrImg {
+    border-radius: 1.2rem;
+    /* height: 20rem; */
+    
+}
+
+p {
+    text-align: center;
+    padding-bottom: 5%;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(210, 14%, 66%);
+    
+    
+    
+}
+
+h1 {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+
+    
+
+}
